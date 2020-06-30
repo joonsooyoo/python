@@ -30,4 +30,3 @@ pi_digit = int(pi_digit)
 
 # this will return the result
 print("Result is {}".format(round(pi * (10 ** pi_digit)) / 10 ** pi_digit))
-print("Hello I'm Youngbae")
